@@ -28,6 +28,33 @@ No email sign-up, no upsell. Download it, use it, change it.
 
 Read `1 - Read These First/Command Center Guide - READ FIRST!.pdf` before you start.
 
+## Try your first workflow
+
+Once Claude can read and write your vault, try a practice meeting using fictional information. No email or calendar connection is needed.
+
+First ask:
+
+```text
+Read CLAUDE.md and tell me what you know about my business.
+Point out any placeholders I still need to fill in.
+```
+
+Then ask:
+
+```text
+Create a practice client named Alex Example using the client templates.
+This is fictional test data. Leave unknown contact and billing fields blank.
+We discussed a new website today. Alex will provide a logo, and I will draft
+the page outline. No deadline was agreed. Use Templates/meeting-note.md
+to save the meeting under this client's meetings folder, append a summary
+to conversations.md, and update the client index. Show me the file paths.
+Do not send messages or connect any external services.
+```
+
+Open the reported files in Obsidian. Check that the note records both action items, leaves the deadline unknown and appears in the client's conversation history. If Claude cannot access the files, check that the session is connected to the same vault folder you opened in Obsidian.
+
+The download contains vault files, instructions, templates and guides. Dashboards, voice capture and automatic email or calendar imports require separate setup. For more examples, read [Getting Started](2%20-%20Drop%20Into%20Your%20Vault/Getting-Started.md).
+
 ## What you need
 
 - A Mac or Windows computer
