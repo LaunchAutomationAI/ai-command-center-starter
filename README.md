@@ -55,6 +55,12 @@ Open the reported files in Obsidian. Check that the note records both action ite
 
 The download contains vault files, instructions, templates and guides. Dashboards, voice capture and automatic email or calendar imports require separate setup. For more examples, read [Getting Started](2%20-%20Drop%20Into%20Your%20Vault/Getting-Started.md).
 
+## Keep customer follow-ups from getting lost
+
+Try the [small-business follow-up workflows](WORKFLOWS.md) with the included [fictional practice notes](examples/fictional-follow-up-notes.md). They cover meeting action items, a follow-up review and a client handoff. Each workflow keeps its source notes visible, leaves unknown dates blank and produces a draft for you to review. No external connections or message sending are required.
+
+The vault includes a [follow-up review template](2%20-%20Drop%20Into%20Your%20Vault/Templates/follow-up-review.md) you can reuse with your own authorized notes.
+
 ## What you need
 
 - A Mac or Windows computer
